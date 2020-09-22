@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitcmdProjectApplication {
 
-	public static void main(String[] args1) {
-		SpringApplication.run(GitcmdProjectApplication.class, args1);
+	public static void main(String[] test) {
+		SpringApplication.run(GitcmdProjectApplication.class, test);
 	}
 
 }
